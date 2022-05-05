@@ -1,5 +1,5 @@
 {
-"acceptedPythonInterpreters": ["py36"],
+"acceptedPythonInterpreters": ["py37_tabula"],
 "forceConda": false,
 "installCorePackages": true,
 "installJupyterSupport": false,
